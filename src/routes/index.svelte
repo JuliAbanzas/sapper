@@ -33,10 +33,10 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Julia Abanzas | Portfolio</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Portfolio</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

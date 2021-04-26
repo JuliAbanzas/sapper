@@ -26,7 +26,7 @@
 	p {
 		margin: 1em auto;
 		font-size: 170%;
-		font-family: fantasy;
+		font-family:arial;
 		
 	}
 

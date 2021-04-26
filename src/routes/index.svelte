@@ -39,7 +39,7 @@
 <h1>Portfolio</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
+	<img alt='Borat' src='https://avatars.githubusercontent.com/u/81693469?v=4'>
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 

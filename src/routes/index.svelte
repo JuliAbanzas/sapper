@@ -25,6 +25,9 @@
 
 	p {
 		margin: 1em auto;
+		font-size: 140%;
+		font-family: fantasy;
+		
 	}
 
 	@media (min-width: 480px) {

@@ -6,6 +6,7 @@
 
 	h1 {
 		font-size: 2.8em;
+		font-family: monospace;
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
@@ -41,7 +42,7 @@
 
 <figure>
 	<img alt='Borat' src='profileimage.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Hola! Mi nombre es Julia , actualmente soy estudiante del ultimo año de Analista en Sistemas.</strong></p>

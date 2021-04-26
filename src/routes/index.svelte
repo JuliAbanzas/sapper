@@ -25,7 +25,7 @@
 
 	p {
 		margin: 1em auto;
-		font-size: 140%;
+		font-size: 170%;
 		font-family: fantasy;
 		
 	}
@@ -48,13 +48,13 @@
 	
 </figure>
 
-<p><strong>Técnica en informática personal y profesional | Analista de sistemas</strong></p>
+<p>Técnica en informática personal y profesional | Analista de sistemas</p>
 <p>Sobre mi</p>
 <h2>¡Hola! Soy estudiante de ultimo año en Instituto Argentino De La Empresa (IADE) - HILET, terminando Tecnicatura Superior en Sistemas (Analista de Sistemas). </h2>
 
 
 <p>Contacto</p>
 
-<h3> </h3>
+
 
 

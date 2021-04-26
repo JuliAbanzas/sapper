@@ -38,11 +38,20 @@
 	<title>Julia Abanzas | Portfolio</title>
 </svelte:head>
 
-<h1>Portfolio</h1>
+<h1>Julia Abanzas</h1>
 
 <figure>
 	<img alt='Borat' src='profileimage.png'>
 	
 </figure>
 
-<p><strong>Hola! Mi nombre es Julia , actualmente soy estudiante del ultimo año de Analista en Sistemas.</strong></p>
+<p><strong>Técnica en informática personal y profesional | Analista de sistemas</strong></p>
+<p>Sobre mi</p>
+<h2>¡Hola! Soy estudiante de ultimo año en Instituto Argentino De La Empresa (IADE) - HILET, terminando Tecnicatura Superior en Sistemas (Analista de Sistemas). </h2>
+
+
+<p>Contacto</p>
+
+<h3> </h3>
+
+

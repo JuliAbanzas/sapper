@@ -27,6 +27,7 @@
 		margin: 1em auto;
 		font-size: 170%;
 		font-family:arial;
+		font-weight: bold;
 		
 	}
 

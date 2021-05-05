@@ -13,11 +13,10 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
-		color:rgb(46,204, 113)
+		color:whitesmoke;
+		
 	}
-	h2 {
-		color:snow;
-	}
+
 
 	figure {
 		margin: 0 0 1em 0;
@@ -55,16 +54,10 @@
 <h1>La Caja</h1>
 
 <figure>
-	<img alt='Borat' src='blackbox.png'>
+	<img alt='box' src='blackbox.png'>
 	
 </figure>
 
-<p>Técnica en informática personal y profesional | Analista de sistemas</p>
-<p>Sobre mi</p>
-<h2>¡Hola! Soy estudiante de ultimo año en Instituto Argentino De La Empresa (IADE) - HILET, terminando Tecnicatura Superior en Sistemas (Analista de Sistemas). </h2>
-
-
-<p>Contacto</p>
 
 
 

@@ -57,14 +57,48 @@
   transition-duration: 0.4s;
   cursor: pointer;
 }
-	.button {
-  transition-duration: 0.4s;
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
 }
 
-.button:hover {
-  background-color: #4CAF50; /* Green */
+.button1:hover {
+  background-color: #4CAF50;
   color: white;
 }
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+
 	
 	</style>
 

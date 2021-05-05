@@ -49,13 +49,13 @@
 	</style>
 
 <svelte:head>
-	<title>Julia Abanzas | Portfolio</title>
+	<title>La Caja Quiz App</title>
 </svelte:head>
 
-<h1>Julia Abanzas</h1>
+<h1>La Caja</h1>
 
 <figure>
-	<img alt='Borat' src='profileimage.png'>
+	<img alt='Borat' src='blackbox.png'>
 	
 </figure>
 

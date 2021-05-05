@@ -2,7 +2,7 @@
 
 </script>
 <style>
-	h1, figure, p {
+	h1, figure,p {
 		text-align: center;
 		margin: 0 auto;
 	}
@@ -29,14 +29,7 @@
 		margin: 0 0 1em 0;
 	}
 
-	p {
-		margin: 1em auto;
-		font-size: 170%;
-		font-family:arial;
-		font-weight: bold;
-		color:azure;
-		
-	}
+	
 
 	@media (min-width: 480px) {
 		h1 {

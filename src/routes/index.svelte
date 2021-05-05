@@ -104,7 +104,7 @@
 <h1>La Caja</h1>
 
 <figure>
-	<img alt='box' src='marco.png'>
+	<img alt='box' src=''>
 	
 </figure>
 <button class="button button1">Iniciar Partida</button>

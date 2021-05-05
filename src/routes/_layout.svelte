@@ -12,7 +12,7 @@
 		padding: 2em;
 		margin: 0 auto;
 		box-sizing: border-box;
-		background-image: url('fondo.jpg');
+		background-color: black;
 		background-repeat: repeat;
   		background-attachment: fixed;
  		 background-size: cover;

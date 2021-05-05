@@ -54,7 +54,7 @@
 <h1>La Caja</h1>
 
 <figure>
-	<img alt='box' src='blackbox.jpg'>
+	<img alt='box' src='colorbox.jpg'>
 	
 </figure>
 <button>Yoquese</button>

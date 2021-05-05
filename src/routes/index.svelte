@@ -15,6 +15,7 @@
 		margin: 0 0 0.5em 0;
 		color:whitesmoke;
 		
+		
 	}
 
 
@@ -103,7 +104,7 @@
 <h1>La Caja</h1>
 
 <figure>
-	<img alt='box' src='colorboxjpg.jpg'>
+	<img alt='box' src='marco.png'>
 	
 </figure>
 <button class="button button1">Iniciar Partida</button>

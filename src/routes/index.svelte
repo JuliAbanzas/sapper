@@ -43,7 +43,15 @@
 			font-size: 4em;
 		}
 	}
-	
+
+	.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
 	
 	</style>
 
@@ -57,7 +65,7 @@
 	<img alt='box' src='colorbox.jpg'>
 	
 </figure>
-<button>Yoquese</button>
+<button class="button button1">Yoquese</button>
 
 
 

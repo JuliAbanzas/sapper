@@ -1,5 +1,5 @@
 <script>
-	import Nav from './components.nav.svelte';
+
 </script>
 <style>
 	h1, figure, p {
@@ -59,6 +59,6 @@
 
 <p>Contacto</p>
 
-<i class="fas fa-box-open"></i>
+
 
 

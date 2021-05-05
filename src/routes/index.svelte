@@ -15,6 +15,9 @@
 		margin: 0 0 0.5em 0;
 		color:rgb(46,204, 113)
 	}
+	h2 {
+		color:snow;
+	}
 
 	figure {
 		margin: 0 0 1em 0;

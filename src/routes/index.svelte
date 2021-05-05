@@ -44,7 +44,9 @@
 			font-size: 4em;
 		}
 	}
-</style>
+	
+	
+	</style>
 
 <svelte:head>
 	<title>Julia Abanzas | Portfolio</title>

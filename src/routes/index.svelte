@@ -78,7 +78,10 @@
 	<img alt='box' src='colorbox.jpg'>
 	
 </figure>
-<button class="button button1">Yoquese</button>
+<button class="button button1">Iniciar Partida</button>
+<button class="button button2">Registrarse</button>
+<button class="button button3">Configuracion</button>
+<button class="button button4">¿Cómo jugar?</button>
 
 
 

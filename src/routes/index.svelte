@@ -31,6 +31,7 @@
 		font-size: 170%;
 		font-family:arial;
 		font-weight: bold;
+		color:azure;
 		
 	}
 

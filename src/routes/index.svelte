@@ -13,6 +13,7 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
+		color:rgb(46,204, 113)
 	}
 
 	figure {

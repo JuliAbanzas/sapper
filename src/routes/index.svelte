@@ -1,3 +1,6 @@
+<script>
+	import Nav from './components.nav.svelte';
+</script>
 <style>
 	h1, figure, p {
 		text-align: center;

@@ -59,6 +59,6 @@
 
 <p>Contacto</p>
 
-
+<i class="fas fa-box-open"></i>
 
 

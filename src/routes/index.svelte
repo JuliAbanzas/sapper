@@ -103,7 +103,7 @@
 <h1>La Caja</h1>
 
 <figure>
-	<img alt='box' src='colorbox.jpg'>
+	<img alt='box' src='colorboxjpg.jpg'>
 	
 </figure>
 <button class="button button1">Iniciar Partida</button>

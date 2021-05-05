@@ -13,7 +13,7 @@
 		margin: 0 auto;
 		box-sizing: border-box;
 		background-image: url('fondo.jpg');
-		background-repeat: no-repeat;
+		background-repeat: repeat;
   		background-attachment: fixed;
  		 background-size: cover;
 	}

@@ -107,10 +107,13 @@
 	<img alt='box' src=''>
 	
 </figure>
-<button class="button button1">Iniciar Partida</button>
+<div>
+  <button class="button button1">Iniciar Partida</button>
 <button class="button button2">Registrarse</button>
 <button class="button button3">Configuracion</button>
 <button class="button button4">¿Cómo jugar?</button>
+</div>
+
 
 
 

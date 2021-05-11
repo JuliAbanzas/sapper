@@ -101,10 +101,15 @@
 	<title>La Caja Quiz App</title>
 </svelte:head>
 
-<h1>La Caja</h1>
-
+  <h1>La Caja</h1>
+  <script>
+  import {currentUser} from './../stores/user.js'
+  import Login from './../components/Login.svelte'
+  </script>
+  <h1>Great success {#if $currentUser}{$currentUser.displayName}{/if}! </h1>
+  <Login />
 <figure>
-	<img alt='box' src=''>
+	<img alt='box' src='blackbox.jpg'>
 	
 </figure>
 <div>

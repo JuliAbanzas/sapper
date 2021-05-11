@@ -1,6 +1,4 @@
-<script>
 
-</script>
 <style>
 	h1, figure {
 		text-align: center;

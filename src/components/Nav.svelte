@@ -7,13 +7,12 @@
 	// List of navigation items
 	const navItems = [
 	  { label: "logo", href: "#" },
-	  { label: "Item 1", href: "#" },
-	  { label: "Item 2", href: "#" },
-	  { label: "Item 3", href: "#" },
-	  { label: "Item 4", href: "#" },
-	  { label: "Item 5", href: "#" },
-	  { label: "Item 6", href: "#" },
-	  { label: "Item 7", href: "#" }
+	  { label: "Play", href: "#" },
+	  { label: "Sign up", href: "#" },
+	  { label: "Log In", href: "#" },
+	  { label: "Settings", href: "#" },
+	  { label: "", href: "#" },
+	
 	];
   
 	// Mobile menu click event handler
@@ -52,7 +51,7 @@
   
   <style>
 	nav {
-	  background-color: rgba(0, 0, 0, 0.8);
+	  background-color: rgba(255, 255, 255, 0.8);
 	  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	  height: 45px;
 	}
@@ -136,7 +135,7 @@
 	}
   
 	.navbar-list.mobile {
-	  background-color: rgba(0, 0, 0, 0.8);
+	  background-color: rgba(255, 255, 255, 0.8);
 	  position: fixed;
 	  display: block;
 	  height: calc(100% - 45px);
@@ -156,7 +155,7 @@
 	  left: 0;
 	  width: 100%;
 	  height: 1px;
-	  background-color: #424245;
+	  background-color: #ffffff;
 	}
   
 	.navbar-list a {

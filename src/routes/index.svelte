@@ -2,7 +2,7 @@
 
 </script>
 <style>
-	h1, figure,p {
+	h1, figure {
 		text-align: center;
 		margin: 0 auto;
 	}

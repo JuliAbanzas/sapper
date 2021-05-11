@@ -81,7 +81,7 @@
 	  position: absolute;
 	  width: 100%;
 	  height: 2px;
-	  background-color: #fff;
+	  background-color: rgb(0, 0, 0);
 	  transition: all 0.4s;
 	  transform-origin: center;
 	}

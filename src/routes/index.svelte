@@ -1,40 +1,111 @@
 
 <style>
-	h1, figure {
-		text-align: center;
-		margin: 0 auto;
-	}
+:root{
+    background-color: #ecf5ff;
+    font-size: 62.5%;
+}
 
-	h1 {
-		font-size: 2.8em;
-		font-family: monospace;
-		text-transform: uppercase;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
-		color:whitesmoke;
-		
-		
-	}
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding:0;
+    color:#333;
+
+}
+h1,
+h2,
+h3,
+h4  {
+    margin-bottom: 1rem;
+
+}
+h1{
+    font-size: 5.4rem;
+    color:#56a5eb;
+    margin-bottom: 5rem;
+}
+
+h1>span{
+    font-size: 2.4rem;
+    font-weight: 500;
+}
+h2{
+    font-size: 4.2rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+}
+h3{
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+
+/* herramientas*/
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80 rem;
+    margin:0 auto;
+    padding:2rem;
+}
+.container>*{
+    width: 100%;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
+
+/*botones*/
+
+.btn{
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.1rem solid #56a5eb;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color:#56a5eb;
+    background-color: white;
 
 
-	figure {
-		margin: 0 0 1em 0;
-	}
+}
 
-	img {
-		border-radius: 50%;
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
+.btn:hover{
+    cursor:pointer;
+    box-shadow: 0 0.4rem 0 rgba(86,185,235,0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
 
-	
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
+.btn [disabled]:hover{
+    cursor:not-allowed;
+    box-shadow: none;
+    transform:none;
+}
 
 	.button {
   background-color: #4CAF50; /* Green */
@@ -115,6 +186,13 @@
 <button class="button button2">Registrarse</button>
 <button class="button button3">Configuracion</button>
 <button class="button button4">¿Cómo jugar?</button>
+</div>
+<div class="container">
+  <div id="home" class="flex-center flex-column">
+      <h1> Quick Quiz</h1>
+     <a class="btn" href="game.svelte">Jugar</a>
+     <a class="btn" href="highscores.svelte">High Scores</a>
+  </div>
 </div>
 
 

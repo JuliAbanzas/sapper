@@ -15,7 +15,9 @@
 		background-color: black;
 		background-repeat: repeat;
   		background-attachment: fixed;
- 		 background-size: cover;
+ 		 background-size:contain;
+		 
+ 
 	}
 </style>
 

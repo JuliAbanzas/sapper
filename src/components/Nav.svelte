@@ -26,7 +26,7 @@
     align-items: center;
   }
   li {
-    color: rgb(243, 233, 233);
+    color: rgb(255, 255, 255);
     padding: 5px 10px;
     margin: 0 5px;
     font-size: 20px;

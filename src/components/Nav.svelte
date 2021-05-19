@@ -4,7 +4,7 @@
 <div class="nav-bar">
   <nav>
     <ul>
-      <li><h1>Book Finder</h1></li>
+      <li><h1>The Box</h1></li>
     </ul>
   </nav>
 </div>
@@ -13,7 +13,7 @@
 	nav {
     width: 100vw;
     height: 7.5vh;
-    background-color: #16697a;
+    background-color: #000000;
     margin: 0;
   }
   
@@ -26,7 +26,7 @@
     align-items: center;
   }
   li {
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 5px 10px;
     margin: 0 5px;
     font-size: 20px;
